@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f02d89a-3b87-42d4-b0a4-9c559e6ca3c3" name="Changes" comment="separation of concerns">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7f02d89a-3b87-42d4-b0a4-9c559e6ca3c3" name="Changes" comment="requirements.txt">
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +139,7 @@
       <workItem from="1728721779672" duration="40000" />
       <workItem from="1728722137670" duration="2460000" />
       <workItem from="1728724636527" duration="1390000" />
-      <workItem from="1728726319236" duration="3801000" />
+      <workItem from="1728726319236" duration="4150000" />
     </task>
     <task id="LOCAL-00001" summary="Sorting with arrows">
       <option name="closed" value="true" />
@@ -174,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728726031355</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="requirements.txt">
+      <option name="closed" value="true" />
+      <created>1728730869308</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728730869308</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +191,8 @@
     <MESSAGE value="Sorting with arrows" />
     <MESSAGE value="errorHandler.jsx and AuthContext.jsx" />
     <MESSAGE value="separation of concerns" />
-    <option name="LAST_COMMIT_MESSAGE" value="separation of concerns" />
+    <MESSAGE value="requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirements.txt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/expense_tracker_backend$app.coverage" NAME="app Coverage Results" MODIFIED="1728725654709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
