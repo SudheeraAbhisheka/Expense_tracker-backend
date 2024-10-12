@@ -5,3 +5,4 @@ Flask-Bcrypt==1.0.1
 Werkzeug==2.3.6
 pymysql==1.0.3
 SQLAlchemy==2.0.20
+PyJWT==2.8.0
