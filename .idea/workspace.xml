@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f02d89a-3b87-42d4-b0a4-9c559e6ca3c3" name="Changes" comment="requirements.txt - updated(pyjwt)">
+    <list default="true" id="7f02d89a-3b87-42d4-b0a4-9c559e6ca3c3" name="Changes" comment="requirements.txt - updated(remove version numbers)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +142,7 @@
       <workItem from="1728724636527" duration="1390000" />
       <workItem from="1728726319236" duration="7360000" />
       <workItem from="1728789743551" duration="3037000" />
+      <workItem from="1728794653829" duration="5502000" />
     </task>
     <task id="LOCAL-00001" summary="Sorting with arrows">
       <option name="closed" value="true" />
@@ -199,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728731480741</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="requirements.txt - updated(remove version numbers)">
+      <option name="closed" value="true" />
+      <created>1728794947934</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728794947934</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,10 +221,11 @@
     <MESSAGE value="requirements.txt" />
     <MESSAGE value="requirements.txt - updated(pymysql)" />
     <MESSAGE value="requirements.txt - updated(pyjwt)" />
-    <option name="LAST_COMMIT_MESSAGE" value="requirements.txt - updated(pyjwt)" />
+    <MESSAGE value="requirements.txt - updated(remove version numbers)" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirements.txt - updated(remove version numbers)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/expense_tracker_backend$app.coverage" NAME="app Coverage Results" MODIFIED="1728790195516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/expense_tracker_backend$app.coverage" NAME="app Coverage Results" MODIFIED="1728800796179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/expense_tracker_backend$main.coverage" NAME="main Coverage Results" MODIFIED="1728725416164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/expense_tracker_backend$run.coverage" NAME="run Coverage Results" MODIFIED="1728724061635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
